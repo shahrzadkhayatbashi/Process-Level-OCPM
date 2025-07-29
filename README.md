@@ -1,9 +1,9 @@
 
-# 📚 Process-Oriented Aggregation and Analysis of Object-Centric Event Data
+# 📚 Process-Level Aggregation and Analysis of Object-Centric Event Data
 
 This repository provides supplementary materials for the scientific paper:
 
-**"Process-Oriented Aggregation and Analysis of Object-Centric Event Data"**  
+**"Process-Level Aggregation and Analysis of Object-Centric Event Data"**  
 *Shahrzad Khayatbashi, Majid Rafiei, Jiayuan Chen, and Amin Jalali*  
 Submitted to the [10th International Workshop on Process Querying, Manipulation, and Intelligence (PQMI 2025)](http://processquerying.com/pqmi2025/)
 
@@ -32,7 +32,7 @@ This capability reflects the hierarchical nature of organizational process lands
 
 Our approach is supported by two open-source tools:
 
-- [POCEL Stellar](https://github.com/hudsonjychen/procellar): Define and embed process scopes
+- [Procellar](https://github.com/hudsonjychen/procellar): Define and embed process scopes
 - [Business Execution Graph](https://github.com/hudsonjychen/business-execution-graph): Visualize process interactions through shared objects
 
 We demonstrate the application of these tools on a public OCEL logistics log:  

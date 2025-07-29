@@ -1,6 +1,6 @@
 # ✍️ Enriching OCEL with Process Scope Definition
 
-This walkthrough demonstrates how to enrich a raw Object-Centric Event Log (OCEL) using a visual rule editor. The process involves importing the original log, defining process-specific rules, and exporting an enriched version of the OCEL along with reusable rule definitions. Instructions for running the tool are provided at [POCEL Stellar](https://github.com/hudsonjychen/procellar). The following steps outline the enrichment process. Please note that process scope definition is subjective and should be based on domain knowledge. The rules defined here are for demonstration purposes only.
+This walkthrough demonstrates how to enrich a raw Object-Centric Event Log (OCEL) using a visual rule editor. The process involves importing the original log, defining process-specific rules, and exporting an enriched version of the OCEL along with reusable rule definitions. Instructions for running the tool are provided at [Procellar](https://github.com/hudsonjychen/procellar). The following steps outline the enrichment process. Please note that process scope definition is subjective and should be based on domain knowledge. The rules defined here are for demonstration purposes only.
 
 ---
 
